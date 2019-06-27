@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>580830103748-4th5nj97q9ioou1ej89thpibuvcqk54o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.580830103748-4th5nj97q9ioou1ej89thpibuvcqk54o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCEJ7ECT-BqQhX7LuHkF8Fn41ADXSe2FLY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>580830103748</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.stuntbum.facetest</string>
+	<key>PROJECT_ID</key>
+	<string>facetest-927b5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>facetest-927b5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:580830103748:ios:abe76d60ec935668</string>
+	<key>DATABASE_URL</key>
+	<string>https://facetest-927b5.firebaseio.com</string>
+</dict>
+</plist>
